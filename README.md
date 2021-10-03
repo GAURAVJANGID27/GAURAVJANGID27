@@ -7,13 +7,13 @@
 
 **Connect with me :** 
 
-<a href="https://www.linkedin.com/in/bhushan-mendhe-1027a1146/" target="_blank">
+<a href="https://www.linkedin.com/in/gaurav-jangid-3a6ba716a/" target="_blank">
   <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/bmendhe23/" target="_blank">
+<a href="https://www.instagram.com/_gaurav__jangid_2711/" target="_blank">
   <img align="left" alt="Arjun | Medium" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/bhushan.mendhe.3/" target="_blank">
+<a href="https://www.facebook.com/gaurav.jangid.35977897" target="_blank">
   <img align="left" alt="Arjun | facebook" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/facebook.svg" />
 </a>
 <br>
