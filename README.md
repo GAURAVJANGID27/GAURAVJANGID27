@@ -19,6 +19,6 @@
 <br>
 <br>
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAURAVJANGID27&show_icons=true&theme=buefy)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAVJANGID27&layout=compact)](https://github.com/GAURAVJANGID27/github-readme-stats) -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GAURAVJANGID27&theme=buefy&hide_border=false)](https://git.io/streak-stats)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravjangid2711&show_icons=true&theme=buefy)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravjangid2711&layout=compact)](https://github.com/gauravjangid2711/github-readme-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gauravjangid2711&theme=buefy&hide_border=false)](https://git.io/streak-stats)
